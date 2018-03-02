@@ -49,4 +49,6 @@ Jingdongshouji2：读取mongo链接，并用selenium获取所有商品的评论
 
 4、超时异常处理
 
+项目九：代理池维护
+
 
